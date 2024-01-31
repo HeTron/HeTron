@@ -47,7 +47,7 @@
 
 
 
-<img align="left" alt="HeTron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeTron&show_icons=true&hide_border=true">
+<img align="left" alt="HeTron's Github Stats" src="https://github-readme-stats-three-bice-96.vercel.app/api?username=HeTron&show_icons=true&hide_border=true">
 
 
 [website]: https://hetron.github.io/website/
