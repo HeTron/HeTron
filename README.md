@@ -6,6 +6,11 @@
 - 2024 Goals: Land a rewarding position with a great company to further my knowledge and start earning a name for myself in the industry.
 - Fun Fact: My sales experience spans the following industries: Construction, Finance, Healthcare Recruiting and Staffing, Pharmaceuticals, Health and Life Insurance, Fashion, and the list goes on.
 
+### Skills
+- GIT/Github | Python | SQL | Pandas | Numpy | Matplotlib | Jupyter Notebooks | CodeSpaces
+VS Code | Web Scraping | File Manipulation | API's | Sci-Kit Learn | TensorFlow | Natural Language
+Toolkit | Power Bi | Statistics
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/jcode2k">
