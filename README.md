@@ -8,7 +8,10 @@
 
 ### Connect with me:
 
+[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />)](https://hetron.github.io/website#gh-light-mode-only)
+[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />)](https://hetron.github.io/website#gh-dark-mode-only)
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/github.svg" />
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jcode2k#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jcode2k#gh-dark-mode-only)
