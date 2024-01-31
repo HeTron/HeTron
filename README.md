@@ -8,8 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://hetron.github.io/website#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://hetron.github.io/website#gh-dark-mode-only)
+[![website](jocksolo/PycharmProjects/HeTron/img/github.svg)](https://hetron.github.io/website)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jcode2k#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jcode2k#gh-dark-mode-only)
@@ -34,6 +33,11 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [//]: # (### 📕 Latest Blog Posts)
 
 [//]: # ()
@@ -44,3 +48,10 @@
 
 
 <img align="left" alt="HeTron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeTron&show_icons=true&hide_border=true">
+
+
+[website]: https://hetron.github.io/website/
+[twitter]: 
+[youtube]: 
+[instagram]: https://instagram.com/jcode2k
+[linkedin]: https://linkedin.com/in/jcode2k
