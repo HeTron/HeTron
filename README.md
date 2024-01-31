@@ -4,7 +4,7 @@
 - I'm currently working on an AWS course and certification
 - I'm looking to collaborate with Data Scientists, Coders, and You!
 - 2024 Goals: Land a rewarding position with a great company to further my knowledge and start earning a name for myself in the industry.
-- Fun Fact: Data Scientist would be your last guess when looking at me haha!
+- Fun Fact: My sales experience spans the following industries: Construction, Finance, Healthcare Recruiting and Staffing, Pharmaceuticals, Health and Life Insurance, Fashion, and the list goes on.
 
 ### Connect with me:
 
