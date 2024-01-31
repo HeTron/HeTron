@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe.png)](https://hetron.github.io/website#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://hetron.github.io/website#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://hetron.github.io/website#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jcode2k#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jcode2k#gh-dark-mode-only)
