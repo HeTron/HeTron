@@ -8,12 +8,13 @@
 
 ### Connect with me:
 
-
-[![linkedin](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />)](https://www.linkedin.com/in/jcode2k#gh-light-mode-only)
-[![linkedin](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />)](https://www.linkedin.com/in/jcode2k#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/jcode2k">
+  <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="32" width="32" />
+</a>
 &nbsp;&nbsp;
-[![instagram](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />)](https://instagram.com/jcode2k#gh-light-mode-only)
-[![instagram](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />)](https://instagram.com/jcode2k#gh-dark-mode-only)
+<a href="https://instagram.com/jcode2k">
+  <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="32" width="32" />
+</a>
 
 ### Languages and Tools:
 
