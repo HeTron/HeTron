@@ -46,3 +46,9 @@ Building tools at the intersection of construction, healthcare, and AI — and t
 <div align="center">
   <img alt="HeTron's GitHub Stats" src="https://github-readme-stats-three-bice-96.vercel.app/api?username=HeTron&show_icons=true&hide_border=true&bg_color=141414&title_color=6ea8fe&text_color=d7d7d7&icon_color=6ea8fe">
 </div>
+
+### `>_` Selected Portfolio
+
+  - **[Market Edge](https://github.com/HeTron/market-edge)** — AI-powered stock forecasting with LightGBM, walk-forward time-series CV, full backtest engine
+   (Sharpe / max drawdown / equity curve vs buy-and-hold), and Claude-generated plain-English explanations of each forecast · [live 
+  demo](https://market-edge.streamlit.app)
